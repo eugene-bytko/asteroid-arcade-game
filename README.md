@@ -39,12 +39,12 @@ To run this game as a static webpage from GitHub, follow these steps:
 1. **Clone the repository to your local machine**  
    First, clone the repository that contains the game files. Open a terminal or command prompt and run the following command:
    ```bash
-   git clone https://github.com/eugene-bytko/asteroid-arcade-game.git
+   git clone https://github.com/eugene-bytko/asteroids-arcade-game.git
    ```
 2. **Navigate to the project folder**  
    After cloning, change the directory to the folder that contains the game files:
    ```bash
-   cd asteroid-arcade-game
+   cd asteroids-arcade-game
    ```
 3. **Set up GitHub Pages**  
    - On GitHub, go to the repository’s settings page. 
@@ -54,7 +54,7 @@ To run this game as a static webpage from GitHub, follow these steps:
 4. **Access the game**  
    After the GitHub Pages configuration, you can access the game through the following URL:
    ```bash
-   https://eugene-bytko.github.io/asteroid-arcade-game
+   https://eugene-bytko.github.io/asteroids-arcade-game
    ```
 5. **Optional: Local Testing**  
    If you want to test it locally before deploying, you can use a simple HTTP server. If you have Python installed, run:
